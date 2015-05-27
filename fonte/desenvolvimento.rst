@@ -1,8 +1,6 @@
 Desenvolvimento
 ===============
 
-Maecenas metus diam, suscipit in iaculis ac, porttitor at ipsum. Morbi accumsan nibh sapien, vitae congue ex scelerisque eget. Donec in tortor pretium, molestie tellus ut, dignissim nibh. In pellentesque sagittis felis, id varius nisi interdum quis. Nulla varius in mauris sit amet ultrices. Proin accumsan maximus ex in aliquet. Vestibulum ultrices, felis non aliquet ultricies, dui urna commodo risus, feugiat ullamcorper mi lorem quis sapien :ref:`sapien`.
-
-Nullam nec quam ac tortor facilisis aliquet. Morbi vitae mauris vel justo ultrices feugiat. Sed eu nunc euismod, faucibus turpis sit amet, pharetra ipsum. In non nisl sapien. Donec pretium blandit nisi, in elementum massa. Maecenas id velit varius, laoreet diam id, congue dolor. Curabitur sodales erat ut lectus semper tempus. Mauris dapibus lorem sit amet mi sagittis, vitae fermentum velit aliquam. 
-
+O ABC Futebol Clube é um clube potiguar, que foi fundado no ano de 1915 na capital do Rio Grande do Norte, o clube que tem como seu maior rival o América de Japecanga, disputa atualmente a 2ª divisão do campeonato brasileiro. O ABC é o clube brasileiro recordista de títulos consecutivos, sendo decacampeão potiguar entre os anos de 1932 e 1941, ao todo possui 52 títulos estaduais, além disso também foi campeão brasileiro da série C no ano de 2010 !
+O ABC é o Orgulho do RN, o clube possui a maior torcida do RN, sendo seguido por América de Japecanga, Potiguar de Mossoró, Baraúnas e Alecrim.
 .. index:: nullam, facilisis
